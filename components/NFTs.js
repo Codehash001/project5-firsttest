@@ -7,7 +7,7 @@ function Nfts () {
         <div id="nfts"className='overflow-hidden flex flex-col'>
     <div className='flex flex-col my-10 mx-16 justify-between '>
        <img
-       src='/DexBattle PNG/DexBattle-characters.jpg'
+       src='/DexBattle PNG/DexBattle-Characters.jpg'
        className='object-cover'/>
        <div className='mt-10'>
         <h1 className='text-3xl text-blue-400  font-Kanit text-center uppercase font-semibold tracking-wide'>The Problem</h1>

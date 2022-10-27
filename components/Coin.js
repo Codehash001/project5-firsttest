@@ -26,7 +26,7 @@ The ways of earning the token have already been mentioned. These include but are
 These Dex coin will be fungible blockchain based tokens. Hence, they will be transferable outside the game on any
 exchange, marketplace, game that accepts the token as their form of currency.
 The tokens will be added to centralized exchanges allowing users to buy/sell these easily.
-The value of these coins will be determined by the game success, it's usage, daily active users, daily transactions and the
+The value of these coins will be determined by the game success, it&apos;s usage, daily active users, daily transactions and the
 overall brand of Dex coin.
 </h1>          
 

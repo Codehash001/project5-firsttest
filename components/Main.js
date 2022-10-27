@@ -6,7 +6,7 @@ export default function Main() {
     <div id="home"className='overflow-hidden flex flex-col'>
         <div className="w-full h-screen flex flex-col items-center justify-center relative">
         <img
-          src="/Banner2.jpg"
+          src="/banner2.jpg"
           className="w-screen h-auto brightness-75 object-fill blur-[1px]"
         />
         <div className='mt-4 top-[100px] left-10 absolute flex flex-col'>
